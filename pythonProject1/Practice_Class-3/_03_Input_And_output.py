@@ -1,0 +1,2 @@
+name = input()
+password = input()
